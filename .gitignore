@@ -40,3 +40,5 @@ Thumbs.db
 
 # Python environment/cache
 *.log
+
+!teaboy_sample_output.mp4
